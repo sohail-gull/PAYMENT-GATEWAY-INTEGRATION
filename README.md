@@ -1,1 +1,1 @@
-Donation Website using HTML,CSS,JAVASCRIPT integrated with razorpay gateway
+Donation Website using HTML,CSS & JAVASCRIPT integrated with razorpay payment  gateway in test mode 
